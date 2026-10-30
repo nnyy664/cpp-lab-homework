@@ -1,0 +1,4 @@
+# Preserve the bytes of submitted coursework files.
+* -text
+*.png binary
+*.docx binary

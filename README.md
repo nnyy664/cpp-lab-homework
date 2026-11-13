@@ -4,6 +4,7 @@
 | --- | --- | --- | --- | --- |
 | week1 | [第一周](week1/) | [实验报告](week1/reports/高级语言程序设计实验报告.docx) | [源码](week1/src/) | [截图](week1/screenshots/) |
 | week2 | [第二周](week2/) | [实验报告](week2/reports/高级语言程序设计实验报告.docx) | [源码](week2/src/) | [截图](week2/screenshots/) |
+| week3 | [第三周](week3/) | [实验报告](week3/reports/高级语言程序设计实验报告.docx) | [源码](week3/src/) | [截图](week3/screenshots/) |
 
 姓名：聂宇  
 学号：2026302192092  

@@ -1,0 +1,25 @@
+{
+  "compiler": "g++.exe (Rev4, Built by MSYS2 project) 16.2.0",
+  "flags": [
+    "-std=c++17",
+    "-Wall",
+    "-Wextra",
+    "-pedantic"
+  ],
+  "results": [
+    {
+      "source": "test1.cpp",
+      "input": "",
+      "output": "10",
+      "expected": "10",
+      "exit_code": 0
+    },
+    {
+      "source": "test2.cpp",
+      "input": "",
+      "output": "16",
+      "expected": "16",
+      "exit_code": 0
+    }
+  ]
+}
